@@ -4,6 +4,8 @@ Prerequisites - Computer Networks
 
 To work with firewalls, the user needs root/admin privileges and cannot be configured without it.
 
+The pictures are examples and not meant to be used in practical sense
+
 ## Getting Started
 
 ### Installing UFW
